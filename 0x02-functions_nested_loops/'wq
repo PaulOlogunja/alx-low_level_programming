@@ -8,7 +8,6 @@
 int main(void)
 {
 	char *nm = "_putchar";
-
 	while (*nm)
 	{
 		_putchar(*nm);
@@ -16,4 +15,4 @@ int main(void)
 	}
 	_putchar('\n');
 	return (0);
-}
+}	
