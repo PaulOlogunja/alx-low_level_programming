@@ -7,11 +7,11 @@
  */
 void print_alphabet_x10(void)
 {
-	int x,q;
+	int x, q;
 
 	q = 0;
 
-	while(q < 11)
+	while (q < 10)
 	{
 
 		for (x = 'a'; x <= 'z'; x++)
