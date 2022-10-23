@@ -10,5 +10,6 @@ int print_sign(int n);
 int add(int, int);
 int _abs(int);
 void print_to_98(int n);
+int print_last_digit(int);
 
 #endif
