@@ -8,9 +8,9 @@
   *
   * Return: The result of multiplication between x param and y param
   */
-int mul(int a, int b)
+int mul(int x, int y)
 {
-	int i = a * b;
+	int i = x * y;
 
 	return (i);
 }
